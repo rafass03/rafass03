@@ -4,7 +4,7 @@
 
 ## Formações:
 - 2017-2021: Técnico em Mecânica Industrial pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)
-- 2023-presente: Bacharelando em Ciência da Computação pela Universidade Federal da Bahia (UFBA) [<img align="center" width="12%" src="https://proext.ufba.br/sites/proext.ufba.br/files/svg_brasao-ufba.svg"/>](https://ufba.br)
+- 2023-presente: Bacharelando em Ciência da Computação pela Universidade Federal da Bahia (UFBA)
 
 ## Universidade:
 - 2024-presente: Bolsista voluntário da iniciação cietífica de Edge to Cloud Continuum
