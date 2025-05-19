@@ -4,12 +4,12 @@
 
 ## Formações:
 - 2017-2021: Técnico em Mecânica Industrial pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)
-- 2023-presente: Bacharelando em Ciência da Computação pela Universidade Federal da Bahia (UFBA)
+- 2023-presente: Bacharelando em Ciência da Computação pela Universidade Federal da Bahia (UFBA) [<img align="center" width="12%" src="https://proext.ufba.br/sites/proext.ufba.br/files/svg_brasao-ufba.svg"/>](https://ufba.br)
 
 ## Universidade:
 - 2024-presente: Bolsista voluntário da iniciação cietífica de Edge to Cloud Continuum
 - 2024-presente: Membro do Centro Acadêmico de Ciência da Computação da UFBA
-- 2025-presente: Treinee de Desenvolvimento Front-End na [<img align="center" width="12%" src="https://www.titanci.com.br/_next/static/media/LogoFooter.1774f537.svg"/>](https://titanci.com.br)<br />
+- 2025-presente: Treinee de Desenvolvimento Front-End na [<img align="center" width="12%" src="https://www.titanci.com.br/_next/static/media/LogoFooter.1774f537.svg"/>](https://titanci.com.br)
 
 ## Você pode me encontra em:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-santana-766a4b288/)
