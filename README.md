@@ -7,9 +7,9 @@
 - 2023-presente: Bacharelando em Ciência da Computação pela Universidade Federal da Bahia (UFBA)
 
 ## Universidade:
-- 2024-presente: Bolsista voluntário da iniciação científica de Edge to Cloud Continuum;
+- 2024-presente: Bolsista voluntário da iniciação científica de Edge to Cloud Continuum [<img align="center" width="12%" src="https://ucl.ufba.br/assets/images/logo/fundo_azul.svg"/>](https://ucl.ufba.br/) ;
 - 2024-presente: Membro do Centro Acadêmico de Ciência da Computação da UFBA;
-- 2025-2025: Treinee de Desenvolvimento Front-End na [<img align="center" width="12%" src="https://www.titanci.com.br/_next/static/media/LogoFooter.1774f537.svg"/>](https://titanci.com.br);
+- 2025-2025: Treinee de Desenvolvimento Front-End na [<img align="center" width="12%" src="https://www.titanci.com.br/_next/static/media/LogoFooter.1774f537.svg"/>](https://titanci.com.br) ;
 - 2025-presente: Bolsista da iniciação científica de Avaliação Experimental de Sistemas de Recomendação para Confiança Interpessoal em AVA com foco em estudo sobre os fatores que influenciam a confiança interpessoal em ambientes de e-learning.
 
 ## Você pode me encontra em:
