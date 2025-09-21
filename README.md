@@ -14,6 +14,7 @@
 
 ## Você pode me encontra em:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-santana-766a4b288/)
+[<img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />](mailto:rafael.s.santana43@outlook.com)
 
 ## Principais Tecnologias:
 - **Python**;
