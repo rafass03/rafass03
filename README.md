@@ -18,7 +18,7 @@
 
 ## Principais Tecnologias:
 - **Python**;
-- **Visual Studio Code, PyCharm, IntelliJ**;
+- **Visual Studio Code, PyCharm, IntelliJ, CLion**;
 - **Git**; 
 - **GitHub**;
 - **Java**;
